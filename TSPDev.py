@@ -7,7 +7,6 @@ Created on Thu Mar 02 17:54:49 2017
 
 import math
 import MySQLdb as mySQL
-from ftplib import FTP
 
 R = 6371.0 * 0.621371
 
